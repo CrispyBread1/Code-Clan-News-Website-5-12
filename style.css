@@ -1,0 +1,39 @@
+body > main {
+    width: 70%;
+    margin: auto;
+}
+
+body {
+    margin: 10px;
+}
+
+body > header {
+    background-color: rgb(112, 142, 222);
+    /* padding: 1px */
+}
+
+nav > ul {
+    list-style: none;
+    padding: 5px
+
+}
+
+#comments {
+        width: 70%;
+        margin: auto;
+}
+
+#commentbox {
+    height: 80px;
+    width: 100%
+}
+
+#post {
+    place-content: right;
+}
+
+body > footer {
+    background-color: rgb(112, 142, 222);
+    text-align: center;
+    padding: 2px
+}
