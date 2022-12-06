@@ -29,7 +29,7 @@ nav > ul {
 }
 
 #post {
-    place-content: right;
+    text-align: right;
 }
 
 body > footer {
